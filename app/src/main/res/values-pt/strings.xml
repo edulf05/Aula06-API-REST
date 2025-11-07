@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lojaa</string>
+    <string name="registration_screen_title">Cadastro</string>
+    <string name="name_field">Nome</string>
+    <string name="email_field">Email</string>
+    <string name="age_field">Idade</string>
+    <string name="register_button">Cadastrar</string>
+</resources>
